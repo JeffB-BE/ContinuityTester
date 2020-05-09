@@ -1,3 +1,0 @@
-(fp_lib_table
-  (lib (name ContinuityTester)(type KiCad)(uri ${KIPRJMOD}/ContinuityTester.pretty)(options "")(descr ""))
-)
